@@ -10,6 +10,7 @@ tipos_arquivos = {
     "Documentos": [".pdf", ".docx", ".txt", ".xlsx"],
     "Vídeos": [".mp4", ".avi", ".mkv"],
     "Áudios": [".mp3", ".wav", ".flac"]
+     "Outros": []  
 }
 
 # Organizar os arquivos
